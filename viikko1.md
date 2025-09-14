@@ -1,15 +1,26 @@
 # **Viikko 1 tehtävä**
 
-## Listat
+## Lista
 
 <ul>
-  <li>Talvi</li>
   <li>Kevät</li>
   <li>Kesä</li>
   <li>Syksy</li>
+  <li>Talvi</li>
 </ul>
 
 ## Listan koodi
+
+```
+{
+  <ul>
+  <li>Kevät</li>
+  <li>Kesä</li>
+  <li>Syksy</li>
+  <li>Talvi</li>
+</ul>
+}
+```
 
 ## Kuva
 
@@ -17,22 +28,62 @@
 
 ## Linkki
 
-[*Linkki Centrian sivuille:*](https://net.centria.fi)
+[*Linkki Centrian sivuille.*](https://net.centria.fi)
 
 ## Taulukko
 
-| Nimi | Opiskelijanumero |
+| Opiskelijan nimi | Opiskelijanumero |
 | ----------- | ----------- |
 | Maija Meikäläinen | 0000 |
 | Matti Meikäläinen | 1111 |
+| Taavi Testaaja | 2222|
 
-## Esittely
+## Lainaus
 
-### Tietoja minusta
+>"The true sign of intelligence is not knowledge but imagination" - Albert Einstein
 
-Nimeni on Jonna. Asun pk-seudulla. Aloitin tieto- ja viestintätekniikan insinöörin opinnot syksyllä 2025.
+---
+---
+---
+
+# **Esittely**
+
+## Tietoja *minusta*
+
+<ul>
+  <li>Nimi: Jonna</li>
+  <li>Opinnot: Tieto- ja viestintätekniikan insinööri (AMK)</li>
+  <li>Aloitusvuosi: 2025</li>
+</ul>
+
+[*Linkki opintokuvaukseen*](https://net.centria.fi/koulutukset/insinoori-amk-tieto-ja-viestintatekniikka)
+
+## Kiinnostuksen kohteet
+
+Kiinnostuksen kohteitani ja harrastuksiani:
+
+| Nro | Harrastus |
+| ----------- | ----------- |
+| 1 | Tietotekniikka |
+| 2 | Lukeminen |
+| 3 | Käsityöt|
+
+ ![Neulominen](rocknwool-jGXBpAKGkfI-unsplash.jpg)
+
+>“A reader lives a thousand lives before he dies . . . The man who never reads lives only one.” - George R.R. Martin
 
 
-### Kiinnostuksen kohteet
+ ---
 
-Kiinnostuksen kohteitani ja harrastuksiani ovat tietotekniikka, lukeminen ja käsityöt.
+### Koodi:
+
+```
+{
+<ul>
+  <li>Nimi: Jonna</li>
+  <li>Opinnot: Tieto- ja viestintätekniikan insinööri (AMK)</li>
+  <li>Aloitusvuosi: 2025</li>
+</ul>
+}
+```
+ ---
